@@ -73,5 +73,5 @@ if($PoliciesToBeReleased.count -gt 0)
         }
         $PolicyAlreadyAssignedToProd.Clear()
     }
-
 }
+
